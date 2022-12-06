@@ -12,8 +12,7 @@ Nachfolgend ist eine Schritt für Schritt Anleitung aufgeführt, wie Sie Zugriff
 3. Geben Sie die zu verwendende E-Mail Adresse ein.
 4. Geben Sie das zu verwendende Passwort ein.
 5. Nach Eingabe der Daten erhalten Sie eine bestätigungs E-Mail mit einem sicherheits Code. Mit diesem müssen Sie den soeben erstellten Microsoft-Account verifizeren.
-<div id="image" stlye="width:60%; height:60%">![image](https://user-images.githubusercontent.com/119875590/205967074-65e7012b-5e0e-4bb0-adc0-7115c2968923.png)</div>
-6. Anschließend ist der Zugang zum Account für Sie eingerichtet und Freigeschaltet. Sie können nun mit der Anmeldung zum Projektraum fortfahren. 
+6. Anschließend ist der Zugang zum Account für Sie eingerichtet und Freigeschaltet. Sie können nun mit der Anmeldung zum Projektraum fortfahren.
 
 
 <strong>Ablauf zur Registration im Projektraum:</strong>
