@@ -6,7 +6,7 @@ Wenn Sie von CDS zur Mitarbeit auf einer Projekt-Plattform eingeladen wurden, is
 
 Nachfolgend ist eine Schritt für Schritt Anleitung aufgeführt, wie Sie Zugriff auf die Projektplattform erhalten. Die Anleitung beginnt mit dem Anlegen eines Microsoft-Benutzerkonotos. Sollten Sie bereits ein Unternehmensaccount von Microsoft oder Office365 besitzen, können Sie diese Schritte überspringen und weiter zur Registration im Projektraum fortfahren.
 
-Anlegen oder Einloggen in das Microsoft-Konto:
+<strong>Anlegen oder Einloggen in das Microsoft-Konto:</strong>
 1. Gehen Sie auf die Internetseite https://account.microsoft.com/account/Account?ref=settings&mkt=de-DE
 2. Drücken Sie die Schaltfläche "Anmleden" zur Anmeldung an einem bestehenden MS-Account oder drücken Sie die Schaltfläche "Konto erstellen" für das Anlegen eines neuen Microsoft-Kontos.
 3. Geben Sie die zu verwendende E-Mail Adresse ein.
@@ -16,7 +16,7 @@ Anlegen oder Einloggen in das Microsoft-Konto:
 6. Anschließend ist der Zugang zum Account für Sie eingerichtet und Freigeschaltet. Sie können nun mit der Anmeldung zum Projektraum fortfahren. 
 
 
-Der Ablauf zur Registration im Projektraum ist wiefolgt:
+<strong>Ablauf zur Registration im Projektraum:</strong>
 1. Identifizieren oder Anlegen des Microsoft Accounts unter https://account.microsoft.com/account/Account?ref=settings&mkt=de-DE
 2. Mitteilung des zu verwendenen Accounts an die betreuende Person des Projektraumes.
 3. Sie erhalten eine E-Mail mit einer Einladung an Ihre angegebene E-Mail Adresse, welche Sie zur Mitarbeit im Projektraum begrüßt.
