@@ -23,4 +23,3 @@ Nachfolgend ist eine Schritt für Schritt Anleitung aufgeführt, wie Sie Zugriff
 6. Diesen Code müssen Sie auf der Plattform unter Einladung Einlösen eingeben.
 7. Aktivieren Sie die Checkbox "Ich habe ein existierendes Konto" und drücken Sie auf die Schaltfläche Registrieren.
 8. Hiermit wurden Sie erfolgreich dem Projektportal zugewiesen. Sie können entweder auf die Start-Seite zurückkehren oder erneut die Anmeldung auf <a href="https://s45portal.powerappsportals.com">https://s45portal.powerappsportals.com</a> vornehmen.
-
