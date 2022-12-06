@@ -3,7 +3,7 @@
 
 Wenn Sie von CDS zur Mitarbeit auf einer Projekt-Plattform eingeladen wurden, ist es notwendig einen Microsoft-Account zu verwenden. Sie können die Plattform mit Ihrem Unternehmenskonto (z.B. Benutzerin@Unternehmen.de) verwenden oder Ihren eigenen kostenlosen Microsoft Account verwenden. Zur Unterscheidung verwenden Sie beim Anmeldevorgang bitte die entsprechende E-Mail Adresse.
 
-Nachfolgend ist eine Schritt für Schritt Anleitung aufgeführt, wie Sie Zugriff auf die Projektplattform erhalten. Die Anleitung beginnt mit dem Anlegen eines Microsoft-Benutzerkontos. Sollten Sie bereits einen Unternehmensaccount von Microsoft oder Office365 besitzen, können Sie diese Schritte überspringen und weiter zur Registrierung im Projektraum fortfahren.
+Nachfolgend ist eine Schritt für Schritt Anleitung aufgeführt, wie Sie Zugriff auf die Projektplattform erhalten. Die Anleitung beginnt mit dem Anlegen eines Microsoft-Benutzerkontos. Sollten Sie bereits einen Unternehmensaccount oder privaten Account von Microsoft oder Office365 besitzen, können Sie diese Schritte überspringen und weiter zur Registrierung im Projektraum fortfahren.
 
 <h3>Anlegen oder Einloggen in das Microsoft-Konto:</h3>
 1. Gehen Sie auf die Internetseite <a href="https://account.microsoft.com/account/Account?ref=settings&mkt=de-DE">https://account.microsoft.com/account/Account?ref=settings&mkt=de-DE</a>
