@@ -23,3 +23,16 @@ Nachfolgend ist eine Schritt für Schritt Anleitung aufgeführt, wie Sie Zugriff
 6. Diesen Code müssen Sie auf der Plattform unter Einladung Einlösen eingeben.
 7. Aktivieren Sie die Checkbox "Ich habe ein existierendes Konto" und drücken Sie auf die Schaltfläche Registrieren.
 8. Hiermit wurden Sie erfolgreich dem Projektportal zugewiesen. Sie können entweder auf die Start-Seite zurückkehren oder erneut die Anmeldung auf <a href="https://s45portal.powerappsportals.com">https://s45portal.powerappsportals.com</a> vornehmen.
+
+
+<h3>Probleme beim Anmelden (Einloggen) in die Plattform:</h3>
+Sollten Sie Schweirigkeiten beim Login auf die Plattform haben und keinen Zugang bekommen, kann es daran liegen, dass Sie versuchen sich mit einem anderen nicht hinterlegten Account anzumelden.
+Wenn Sie beim Login auf eine Microsoft Plattform die Auffrorderung zum <strong>“Eingeloggt bleiben”</strong> bestätigen. Kann es unter Umständen schwierig sein, sich mit einem anderen richtigen Zugang erneut anzumelden.
+
+Wir empfehlen daher, sich ein <strong>privates Browserfenster</strong> zu öffnen und hier die Anmeldung an der Plattform erneut zu versuchen. Sollte es dann mit den entsprechenden gewohnten Zugangsdaten funktionieren, ist die Wahrscheinlichkeit hoch, dass Sich der Account im Browser-Cookie verfestigt hat.
+
+Um sich aus dem Zugang im Browser <strong>abzumelden</strong>, besuchen Sie die Seite <a href="https://account.microsoft.com">https://account.microsoft.com</a>
+
+Hier können Sie nach dem Anmelden in der rechten oberen Fensterecke, mit klick auf den Kreis, sehen mit welchem Zugang Sie zurzeit im Browser eingeloggt sind und sich entsprechend an oder abmelden.
+
+Schließen Sie nach dem abmelde-Vorgang alle Browserfenster und beginnen Sie erneut sich auf der Plattform einzulogen. Nun sollten Sie wie zu erwarten nach Ihren Login-Daten gefragt werden.
