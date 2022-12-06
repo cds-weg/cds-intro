@@ -1,6 +1,6 @@
 # cds-intro
 
-<strong>Anmeldevorgang</storng>
+<strong>Anmeldevorgang</strong>
 
 Wenn Sie von CDS zur Mitarbeit auf einer Projekt-Plattform eingeladen wurden, ist es notwendig einen Windows-Account zu verwenden. Hierfü können Sie die Plattform mit Ihrem Unternehmenskonto (z.B. Benutzerin@Unternehmen.de) verwenden oder Ihren eigenen kostenlosen Microsoft Account. Zur Unterscheidung verwwenden Sie beim Anmeldevorgang bitte die entsprechende E-Mail Adresse.
 
